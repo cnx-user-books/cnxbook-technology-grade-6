@@ -1,0 +1,208 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Making a traffic regulator</title>
+  <metadata>
+  <md:content-id>m22645</md:content-id><md:title>Making a traffic regulator</md:title>
+  <md:abstract/>
+  <md:uuid>36924920-90fb-4863-a16d-14efbe65180b</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170871553031">TECHNOLOGY</para>
+    <section id="id1170861578972">
+      <title>Grade 6</title>
+      <para id="para-id1170861578972">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170865903004">
+      <title>SYSTEMS AND CONTROL: AN ELECTRICAL SHOCK</title>
+      <para id="para-id1170865903004">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170867255552">
+      <title>Module 15</title>
+      <para id="para-id1170867255552">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170853912325">
+      <title>MAKING A TRAFFIC REGULATOR</title>
+      <para id="id1170863763649"><emphasis effect="italics">To the Educator:</emphasis> This assignment can be executed as an individual or as a group project.</para>
+      <para id="id1170862639854">(a)<emphasis effect="italics"> What is the problem?</emphasis> You are a citizen of Muddle Town. The town traffic is always chaotic because drivers do not stop their vehicles at the main street crossing. Everyone is permanently late for work because of the frequent accidents and regular congestion of traffic at this important street intersection.</para>
+      <para id="id1170870515396">(b) <emphasis effect="italics">What is required? </emphasis>A “machine” that will regulate the traffic in a reasonable way from day to day.</para>
+      <list id="id1170871709015" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item><emphasis effect="italics">What is your brief?</emphasis> You are asked to design and build a prototype machine that can be erected at the street intersection to regulate the traffic.</item>
+      </list>
+      <para id="id1170863831274">(d) <emphasis effect="italics">What limitations are placed on your prototype?</emphasis> You may use: 3 light bulbs of different colours (LED’s) as resistors; a battery as energy source and a container for the battery; lengths of copper wire with clamps as conductors; a wooden board; 4 drawing pins; and a paper clip as the switch.</para>
+      <figure id="id1170866042991">
+        <media id="id1170866042991_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-da5e.png" id="id1170866042991__onlineimage" height="317" width="467"/>
+        </media>
+      </figure>
+      <para id="id1170863222095"/>
+      <para id="id1170859626708">Only one light may glow at any particular time. The lights must indicate to motorists that vehicles in one traffic lane have to stop while vehicles in another lane may continue travelling. One of these machines will be erected on each of the corners at the intersection, but you need to build only one.</para>
+      <para id="id1170870456419">You may present the machine in any form, but it may not be higher than 30 cm and wider than 20 cm. It must be solid, stable and strong.</para>
+    </section>
+    <section id="id1170871461695">
+      <title>Assignment 1</title>
+      <para id="para-id1170871461695">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170867058289">
+      <title>[LO 1.2]</title>
+      <para id="para-id1170867058289">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170863616099">
+      <title>Research</title>
+      <para id="id1170863560505">Consult different sources and suggest at least three solutions for this problem. Draw sketches of these solutions or write notes about the possibilities that you are suggesting. </para>
+      <figure id="id1170865912286">
+        <media id="id1170865912286_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-9017.png" id="id1170865912286__onlineimage" height="312" width="278"/>
+        </media>
+      </figure>
+      <para id="id1170859644831">
+        <figure id="id1170857856327">
+          <media id="id1170857856327_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-a8ab.png" id="id1170857856327__onlineimage" height="312" width="277"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+    <section id="id1170861301328">
+      <title>Assignment 2</title>
+      <para id="para-id1170861301328">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170863829360">
+      <title>[LO 1.5]</title>
+      <para id="para-id1170863829360">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170858371642">
+      <title>Design</title>
+      <list id="id1170854698923" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Make free-hand drawings of three circuits that could provide solutions to the traffic problem. Also provide labels. </item>
+      </list>
+      <figure id="id1170863733087">
+        <media id="id1170863733087_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-695d.png" id="id1170863733087__onlineimage" height="333" width="554"/>
+        </media>
+      </figure>
+      <para id="id1170871661939"/>
+      <para id="id1170871805182">Your final choice</para>
+      <para id="id1170862580800">Draw the circuit diagram of your final choice.</para>
+      <para id="id1170867998411">[LO 1.6]</para>
+      <para id="id1170854639314"><emphasis effect="underline">SUGGESTION</emphasis>!</para>
+      <list id="id1170857676678" list-type="bulleted">
+        <item>Must the lights be connected in serial or in parallel if they need to work one at a time? </item>
+      </list>
+      <list id="id1170862781399" list-type="bulleted">
+        <item>What must be shifted to a different position so that only one light will light up at a time?</item>
+      </list>
+      <figure id="id1170866934480">
+        <media id="id1170866934480_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-536b.png" id="id1170866934480__onlineimage" height="167" width="551"/>
+        </media>
+      </figure>
+      <list id="id1170853935873" list-type="bulleted">
+        <item>Design a stand on which the lights, switch and battery can be mounted for the machine to work. This machine will eventually be controlled automatically, but someone will have to be employed to operate the changing of the lights, in the mean time. Discuss the requirements for such a stand with the members of your group. Indicate the dimensions so that it will be possible for other people to understand your ideas and how the machine works.</item>
+      </list>
+      <para id="id1170857722265">[LO 1.5]</para>
+      <para id="id1170863765684">Develop your best idea fully. </para>
+      <para id="id1170861314045"/>
+    </section>
+    <section id="id1170870514871">
+      <title>Assignment 3</title>
+      <para id="para-id1170870514871">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170863856357">
+      <title>[LO 1.9]</title>
+      <para id="para-id1170863856357">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170862402775">
+      <title>Manufacturing</title>
+      <list id="id1170858256455" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Build the stand for the circuit. What materials will you be using? <figure id="id1170861279985"><media id="id1170861279985_media" alt=""><image mime-type="image/png" src="../../media/Picture 5-e3fe.png" id="id1170861279985__onlineimage" height="241" width="412"/></media></figure></item>
+        <item>Which tools will you be using? <figure id="id1170867233265"><media id="id1170867233265_media" alt=""><image mime-type="image/png" src="../../media/Picture 6-ff92.png" id="id1170867233265__onlineimage" height="232" width="441"/></media></figure></item>
+        <item>Which action will you be taking – give a step by step explanation of what you will do:</item>
+      </list>
+      <para id="id1170856897807">[LO 1.8]</para>
+      <list id="id1170867082598" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Mount the circuit on the stand.</item>
+        <item>Demonstrate your invention to the rest of the class and explain how it works.</item>
+        <item>Provide a suitable name for your invention.</item>
+        <item>Write a step-by-step description of how you made your invention. </item>
+      </list>
+      <para id="id1170868418942">[LO 1.7]</para>
+    </section>
+    <section id="id1170871403687">
+      <title>Assignment 4</title>
+      <para id="para-id1170871403687">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170854798844">
+      <title>[LO 1.10]</title>
+      <para id="id1170871686520">Evaluation</para>
+      <list id="id1170863570705" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>List three good aspects of your invention: List three weak aspects of your invention. </item>
+        <item>What would you do differently if you had to design this invention and make it again? </item>
+        <item>How do you feel about your invention when you compare it with those of the rest of the class? </item>
+        <item>Make a 3-D drawing (in colour and with labels) of your final product.</item>
+      </list>
+    </section>
+    <section id="id1170859644309">
+      <title>Assessment</title>
+      <para id="id1170863373865"><emphasis effect="italics">Learning Outcomes</emphasis>(LOs)</para>
+      <para id="id1170863199973">LO 1</para>
+      <para id="id1170866188281">TECHNOLOGICAL PROCESSES AND SKILLS</para>
+      <para id="id1170856898197">The learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technologies</para>
+      <para id="id1170870254233">Assessment Standards(ASs)</para>
+      <para id="id1170870501252">We know this when the learner:</para>
+      <para id="id1170865886240">1.1 finds out about the background context when given a problem, need or opportunity, and lists the advantages and disadvantages that a technological solution might bring to people and the environment;</para>
+      <para id="id1170863683593">1.2 finds out about existing products relevant to a problem, need or opportunity, and identifies and compares their design aspects (e.g. who it is for, what it is for, what it looks like, what it is made of, how well it works, whether it will affect the environment);</para>
+      <para id="id1170859622807">1.3 performs, where appropriate, scientific investigations about concepts relevant to a problem, need or opportunity using science process skills;</para>
+      <para id="id1170856985602">1.4 writes or communicates a design brief for the development of a product related to a given problem, need or opportunity that clarifies the technological purposes of the solution;</para>
+      <para id="id1170870460376">1.5 suggests and records at least two alternative solutions to the problem, need or opportunity that link clearly to the design brief and to given specifications and constraints (e.g. people, purpose, safety, environmental impact, appearance);</para>
+      <para id="id1170865927470">1.7 develops plans that detail the making steps, including drawings and sketches that help to clarify the plans;</para>
+      <para id="id1170867066215">1.8 chooses and uses suitable tools to make products by measuring, marking out, cutting or separating, shaping or forming, joining or combining, and finishing the chosen materials;</para>
+      <para id="id1170865733501">1.9 works efficiently and safely;</para>
+      <para id="id1170867137256">1.10 evaluates the product according to the design brief and given specifications and constraints (e.g. people, purpose, environmental impact, safety, appearance), and suggests improvements and modifications if necessary;</para>
+      <para id="id1170854732917">1.11 evaluates the plan of action followed and suggests improvements and modifications if necessary;</para>
+      <para id="id1170857422289">1.12 draws appropriate sketches (e.g. labelled two-dimensional drawings of ideas, enhanced drawings of final solutions and drawings showing measurements) to communicate different information appropriately and effectively.</para>
+    </section>
+    <section id="id1170868226059">
+      <title>Memorandum</title>
+      <para id="id1170863844571">Assignment 1</para>
+      <para id="id1170857220631">The amount of trouble that learners took to find the various possible solutions to the problem is evaluated.</para>
+      <para id="id1170857402596">Assignment 2 </para>
+      <para id="id1170859640249">Check whether the required components for a circuit had been included in the learner’s final choice.</para>
+      <para id="id1170863046214">The limitations for the prototype are the minimum components that could be used to supply the cheapest possible circuit. However, encourage learners to be original and creative.</para>
+      <para id="id1170854615511">(b) It is important that the learners are able to represent the circuit in a scientific way.</para>
+      <para id="id1170863216737">(c) It is important that learners experiment with their circuits in order to find the positive and negative aspects of each.</para>
+      <para id="id1170863471459"> Parallel</para>
+      <para id="id1170863201009"> At the switch</para>
+      <list id="id1170866048531" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Encourage learners to be creative and original when designing a mount for the circuit. Given the maximum size, encourage learners to make the mount as compact and practical as possible. This is what the teacher will be looking for during the assessment.</item>
+      </list>
+      <para id="id1170862485583">Assignment 3</para>
+      <para id="id1170858308085">(a) Check whether the specifications of the mount in the sketch agree with the real product.</para>
+      <para id="id1170863222026">(b) Consumable items are materials, so you can expect as answers paint, Koki pens, a variety of boxes, cardboard, etc.</para>
+      <para id="id1170863368049">(c) Tools are reusable items, so you can expect answers like scissors, a hammer, paintbrushes, pliers, etc.</para>
+      <para id="id1170866183667">(d) for the circuit – connect, join up, attach, place, hammer, press, slide, mount, drive, etc.</para>
+      <para id="id1170867202432"> for the mount – clip, cut, fold, bend, paste, attach, place, colour in, staple, etc.</para>
+      <para id="id1170857724046">(g) Evaluate each learner’s originality and creativity.</para>
+      <para id="id1170857035587">(h) The materials and the tools that were used are now used together with the actions to give a step by step description of how the circuit and mount were made.</para>
+    </section>
+  </content>
+</document>

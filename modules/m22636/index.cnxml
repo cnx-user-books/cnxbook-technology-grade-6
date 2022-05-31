@@ -1,0 +1,393 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Discovering energy</title>
+  <metadata>
+  <md:content-id>m22636</md:content-id><md:title>Discovering energy</md:title>
+  <md:abstract/>
+  <md:uuid>cc90128b-90c4-4824-b815-9d60d030cc62</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1168686723231">TECHNOLOGY</para>
+    <section id="id1168686528652">
+      <title>Grade 6</title>
+      <para id="para-id1168686528652">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7138075">
+      <title>SYSTEMS AND CONTROL: AN ELECTRICAL SHOCK</title>
+      <para id="para-id7138075">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4482310">
+      <title>Module 12</title>
+      <para id="para-id4482310">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4532721">
+      <title>DISCOVERING ENERGY</title>
+      <para id="para-id4532721">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168685664528">
+      <title>Background information</title>
+      <para id="id1168683388336">Guess this! What is the word for the ability to do work? What can neither be created of destroyed? What can only be transferred from one form to another? You are correct:</para>
+      <para id="id4086830">E_______________________</para>
+      <para id="id1168686489452">The main source of energy in nature is the <emphasis effect="underline">sun</emphasis>, because it radiates heat and light energy. Plants use this light and heat energy and change it into chemical energy, which they use for growing.</para>
+      <para id="id5824893">People and animals also use energy for everything that they do. We obtain energy by eating food. The chemical energy that is trapped in food is converted into kinetic energy (motion) inside our bodies. This makes it possible for the muscles of our bodies to do their work.</para>
+      <para id="id7752646">All the foods that we eat therefore contain energy, to a lesser or greater degree. Can you name the unit that is used to measure the amount of energy that is contained in food?</para>
+    </section>
+    <section id="id7739734">
+      <title>Assignment 1</title>
+      <para id="para-id7739734">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7474673">
+      <title>[LO 2.4]</title>
+      <para id="id4404081">Study the labels on tins and boxes containing food. Complete the following table to determine the energy value of different kinds of food:</para>
+      <table id="id4697168" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>FOOD</entry>
+              <entry>QUANTITY, e.g. 100g</entry>
+              <entry>KILOJOULES per 100g</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168685754133">
+      <title>Assignment 2</title>
+      <para id="para-id1168685754133">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1066797">
+      <title>[LO 2.4]</title>
+      <para id="id1017603">Which food types contain the highest amount of kilojoules per 10 g/ml?</para>
+    </section>
+    <section id="id7028751">
+      <title>Deduction</title>
+      <para id="id1168685665470">Foods like fats, oils, proteins, sugar and starches are able to supply the body with energy. Sugar and starch (carbohydrates) supply more energy and do this faster than other foods. If you do not get enough exercise and therefore do not manage to get rid of this energy, excess energy is stored in your body as <emphasis effect="bold">fat</emphasis>.</para>
+    </section>
+    <section id="id1168685570053">
+      <title>Assignment 3</title>
+      <para id="para-id1168685570053">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3993129">
+      <title>[LO 2.4]</title>
+      <para id="id4078529">Why would an athlete who takes part in a race like the Comrades Marathon, eat pasta before the race?</para>
+      <para id="id6645746">Food supplies energy for us to be able to do work. Machines also need energy to be able to work.</para>
+      <para id="id1168686692510">There are many different kinds of energy, namely:</para>
+      <table id="id5616190" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Chemical energy</entry>
+              <entry>An object has the ability to exhibit energy because of its chemical composition.</entry>
+            </row>
+            <row>
+              <entry>Potential energy</entry>
+              <entry>Any object that is not on the earth’s surface has the ability to return (fall back) to the earth because of the earth’s force of attraction. </entry>
+            </row>
+            <row>
+              <entry>Kinetic energy (motion)</entry>
+              <entry>The energy of a moving object.</entry>
+            </row>
+            <row>
+              <entry>Heat energy</entry>
+              <entry>An object’s ability to radiate warmth.</entry>
+            </row>
+            <row>
+              <entry>Light energy</entry>
+              <entry>An object’s ability to radiate light.</entry>
+            </row>
+            <row>
+              <entry>Electrical energy</entry>
+              <entry>An object’s ability to conduct electricity.</entry>
+            </row>
+            <row>
+              <entry>Sound energy</entry>
+              <entry>An object’s ability to produce sound.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8302444">Transfer of energy occurs continuously in objects. We speak of this as the conversion of energy.</para>
+      <para id="id8344743">Assignment 4</para>
+    </section>
+    <section id="id8451274">
+      <title>[LO 2.4]</title>
+      <para id="id8524186">Energy conversion takes place in the following appliances and objects: a stove, a high fidelity system, a light bulb, a ball attached to a length of elastic, an electric train, a car battery. Match these examples to the different kinds of energy conversion listed below.</para>
+      <list id="id1168685668353" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>conversion of electric energy to sound energy:</item>
+        <item>conversion of electric energy to heat energy:</item>
+        <item>conversion of potential energy to kinetic energy:</item>
+        <item>conversion of electric energy to light energy:</item>
+        <item>conversion of electric energy to kinetic energy:</item>
+        <item>conversion of chemical energy to electric energy:</item>
+      </list>
+      <para id="id8292518">We are going to use this module to examine electric energy. <emphasis effect="bold">Electricity</emphasis> is very useful, because it is a type of energy that can easily be converted to other forms of energy. It does not pollute or damage the environment and can be stored easily and safely.</para>
+      <para id="id7824833">There are two main types of electricity: <emphasis effect="bold">mainstream electricity</emphasis> and <emphasis effect="bold">battery</emphasis><emphasis effect="underline"/><emphasis effect="bold">electricity</emphasis>.</para>
+    </section>
+    <section id="id3744334">
+      <title>Assignment 5A</title>
+      <para id="para-id3744334">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8405137">
+      <title>[LO 2.4]</title>
+      <para id="id2391769">Create a poster showing electrical implements that work with mainstream electricity a</para>
+      <para id="id3125450">and with battery electricity.</para>
+    </section>
+    <section id="id8461033">
+      <title>Background information:</title>
+      <para id="para-id8461033">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8603670">
+      <figure id="id7527706">
+        <media id="id7527706_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11-6541.png" id="id7527706__onlineimage" height="418" width="431"/>
+        </media>
+      </figure>
+    </section>
+    <para id="id9039592">Chemical energy is electrical energy that is trapped in the chemicals inside a battery, which therefore has the potential to generate an electrical current. In a wet cell battery, two metal strips that are referred to as electrodes and are of copper and zinc are placed in an acid solution named an electrolyte. A chemical reaction occurs and this creates electrical power. Negative electrons flow through the acid solution from the copper to the zinc. The current returns to the copper via the wire and this is how the electricity flows. The chemical energy stored inside the battery is measured in VOLT. We have batteries with varying strengths, each with a negative and a positive pole.</para>
+    <figure id="id4560262">
+      <media id="id4560262_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 12-58b3.png" id="id4560262__onlineimage" height="263" width="414"/>
+      </media>
+    </figure>
+    <para id="id8054552">The first battery was made in 1790, by the Italian Allessandro Volta.</para>
+    <para id="id8715746">Current always flows from a positive pole to a negative pole in an electrical circuit. The electrical current therefore is created when electrons move in one direction along a length of wire. To provide electrical energy, the electrons need to move in an uninterrupted circuit, the <emphasis effect="bold">electrical circuit</emphasis>. The only way in which it is possible to see whether there is a flow of electricity, is to observe its effect.</para>
+    <para id="id8939519">What are the basic elements of an electrical circuit?</para>
+    <list id="id8524418" list-type="bulleted">
+      <item>There has to be a source of energy, e.g. a battery, or electricity, or a generator;</item>
+      <item>There has to be a conductor through which the electrical current can flow. This usually is some sort of metal which offers little resistance to the electrical circuit.</item>
+      <item>There has to be a switch by means of which the electrical current can be made to flow or be interrupted.</item>
+      <item>There has to be a load to use the electrical current, i.e. a source of light, sound, motion or heat, so that the chemical energy can be converted into electrical energy, which can become one of the above four energies.</item>
+    </list>
+    <figure id="id8999008">
+      <media id="id8999008_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 13-0ea1.png" id="id8999008__onlineimage" height="321" width="608"/>
+      </media>
+    </figure>
+    <para id="id8859955">Assignment 5B</para>
+    <section id="id8302800">
+      <title>[LO 2.4]</title>
+      <list id="id3504841" list-type="bulleted">
+        <item>Supply the necessary labels for the sketch of the 4 basic elements of the electrical circuit.</item>
+      </list>
+      <figure id="id2403286">
+        <media id="id2403286_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14-8f63.png" id="id2403286__onlineimage" height="565" width="756"/>
+        </media>
+      </figure>
+      <para id="id8484867">Isolators are materials that do not conduct electricity, e.g. plastic, rubber and glass. It is used to cover metal wires or light bulb sockets to prevent the current from flowing through other metal objects that may come into contact with it.</para>
+    </section>
+    <section id="id1168685659696">
+      <title>Assignment 5C</title>
+      <para id="para-id1168685659696">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4314358">
+      <title>[LO 1.13]</title>
+      <para id="id2749258">A specific symbol is used for each element of the electrical circuit and this is useful when a <emphasis effect="bold">circuit</emphasis> is represented in a <emphasis effect="bold">circuit diagram</emphasis>.</para>
+      <table id="id8429307" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>ELEMENT</entry>
+              <entry>SYMBOL</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>A battery</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>A conductor</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>A sliding switch</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>A light bulb</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>A LED</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>Direction of the current</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8996337">
+      <title>Assignment 6</title>
+      <para id="para-id8996337">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8162045">
+      <title>[LO 1.9]</title>
+      <para id="id8721952">Examine the following rules for how to take care when you use mainstream electricity to determine whether the statements are <emphasis effect="bold">TRUE</emphasis> or <emphasis effect="bold">FALSE</emphasis>. First do it individually and then discuss it with the rest of the group members.</para>
+      <table id="id8455755" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>INDIVIDUAL</entry>
+              <entry>GROUP</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id8659344" list-type="enumerated" number-style="arabic">
+                  <item>Always dry your hands before handling electrical switches or implements.</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id8691573" list-type="enumerated" number-style="arabic">
+                  <item>It is all right to pull out a plug when the wall switch is live.</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3. Do not pull a plug out of a wall socket by the electric cord, especially while the switch is on.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id2842516" list-type="enumerated" number-style="arabic">
+                  <item>A worn or frayed cord is not dangerous and cannot cause a fire.</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id8591996" list-type="enumerated" number-style="arabic">
+                  <item>It is quite in order to fit a number of adapters to one socket if you want to use several electrical appliances simultaneously.</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id3910925" list-type="enumerated" number-style="arabic">
+                  <item>Wall sockets are also fitted in bathrooms.</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id8384083" list-type="enumerated" number-style="arabic">
+                  <item>It is dangerous to insert a metal object into a wall socket.</item>
+                </list>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8211350">Assessment</para>
+      <para id="id4068583">Learning Outcomes(LOs)</para>
+      <para id="id8300298">LO 1</para>
+      <para id="id6545074">TECHNOLOGICAL PROCESSES AND SKILLS</para>
+      <para id="id7811580">The learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technologies.</para>
+      <para id="id7530976">Assessment Standards(ASs)</para>
+      <para id="id4556876">We know this when the learner:</para>
+      <para id="id6485890">1.9 works efficiently and safely;</para>
+      <para id="id8777898">1.13 chooses and uses appropriate technologies to present, record or communicate technological and/or scientific processes followed (e.g. simple portfolio, posters, charts, models, scientific investigations).</para>
+      <para id="id8114610">LO 2</para>
+      <para id="id5626264">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING</para>
+      <para id="id5448546">The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</para>
+      <para id="id7502858">We know this when the learner:</para>
+      <para id="id8839590">2.4 demonstrates knowledge and understanding of the components of simple electrical circuits (e.g. connecting wires, battery, switch, output device), and how electrical energy can be converted into other forms (e.g. light, heat, sound, movement).</para>
+    </section>
+  </content>
+</document>

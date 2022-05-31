@@ -1,0 +1,121 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Why a light bulb lights up</title>
+  <metadata>
+  <md:content-id>m22648</md:content-id><md:title>Why a light bulb lights up</md:title>
+  <md:abstract/>
+  <md:uuid>10bc4dd3-f667-410e-b52c-0196ab2fd2ee</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1164139226618">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1164139226618">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164143698828">
+      <title>Grade 6</title>
+      <para id="para-id1164143698828">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164136814764">
+      <title>SYSTEMS AND CONTROL: AN ELECTRICAL SHOCK</title>
+      <para id="para-id1164136814764">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164138673247">
+      <title>Module 14</title>
+      <para id="para-id1164138673247">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164139334448">
+      <title>Why does a light bulb in a circuit light up?</title>
+      <para id="para-id1164139334448">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5475102">
+      <title>BACKGROUND INFORMATION</title>
+      <para id="id1164141842997">The electrical energy is converted into heat energy, which causes the glow (incandescence). This happens because the wolfram wire (filament) in the bulb becomes hot because of its resistance to the electric current. The glass globe is filled with gas and this keeps the wire from being burnt out. Apparatus like light bulbs, loudspeakers and stove plates that generate light, sound and heat also offer a type of resistance to the electrical current. An electric engine is a motor that generates motion.</para>
+      <para id="id1164141635168">Assignment 1</para>
+      <list id="id1164136022071" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Build the simple electric circuit shown in the sketch.</item>
+      </list>
+      <para id="id9003958">
+        <figure id="id1164141255412">
+          <media id="id1164141255412_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-d508.png" id="id1164141255412__onlineimage" height="295" width="395"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id5477139">Draw a diagram to illustrate the circuit.</para>
+      <list id="id1164136418829" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Add another light bulb in series in the electric circuit. Is the light emitted from the light bulb brighter or duller?</item>
+      </list>
+      <para id="id1164138584890">Supply the <emphasis effect="bold">reason</emphasis> by <emphasis effect="underline">underlining</emphasis> the correct word: The energy that is available for each light bulb is (halved / doubled).</para>
+      <para id="id1164144120724">What will happen if one of the light bulbs stops working / breaks?</para>
+      <figure id="id1164141138637">
+        <media id="id1164141138637_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-76f3.png" id="id1164141138637__onlineimage" height="295" width="349"/>
+        </media>
+      </figure>
+      <para id="id1164136285679">
+        <figure id="id1164140623714">
+          <media id="id1164140623714_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-b005.png" id="id1164140623714__onlineimage" height="200" width="170"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id6265936">
+        <media id="id6265936_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-059a.png" id="id6265936__onlineimage" height="304" width="312"/>
+        </media>
+      </figure>
+      <figure id="id1164139543703">
+        <media id="id1164139543703_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-fde3.png" id="id1164139543703__onlineimage" height="200" width="161"/>
+        </media>
+      </figure>
+      <para id="id1164139886858"/>
+      <list id="id1164141197746" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Add another light bulb to the circuit in parallel, in circuit (a). <emphasis effect="bold">Do both light bulbs glow equally brightly?</emphasis></item>
+      </list>
+      <para id="id7539133">Supply the <emphasis effect="bold">reason</emphasis> by <emphasis effect="underline">underlining</emphasis> the correct word: The amount of energy supplied to each of the light bulbs is (the same / different).</para>
+      <para id="id1164130842612">What will happen if one of the light bulbs stops working / breaks?</para>
+      <list id="id1164132067188" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Application: <emphasis effect="underline">Underline</emphasis> the correct expression to make the statement correct: The lights in our house remain bright, even if all of them are switched on at the same time. This is because they are connected (in series / in parallel).</item>
+        <item>Touch the light bulbs.</item>
+      </list>
+      <para id="id1164142335212">Are they warm or cold to the touch?</para>
+      <para id="id1164135790921">A light bulb that emits light therefore supplies light energy, as well as______________________ energy.</para>
+      <para id="id1164144030361">[LO 1.3</para>
+    </section>
+    <section id="id1164139304966">
+      <title>Assessment</title>
+      <para id="id1991770">Learning Outcomes(LOs)</para>
+      <para id="id1164143840412">LO 1</para>
+      <para id="id1164138683124">TECHNOLOGICAL PROCESSES AND SKILLS</para>
+      <para id="id1164131253270">The learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technologies</para>
+      <para id="id4347657">Assessment Standards(ASs)</para>
+      <para id="id1164138973075">We know this when the learner:</para>
+      <para id="id1164146057208">1.3 performs, where appropriate, scientific investigations about concepts relevant to a problem, need or opportunity using science process skills;</para>
+    </section>
+    <section id="id1164136791057">
+      <title>Memorandum</title>
+      <para id="id1164135189528">Assignment 1</para>
+      <para id="id1164146063674">(a)</para>
+      <para id="id1164136789784">(b) weaker</para>
+      <para id="id1164141532360"> Halved</para>
+      <para id="id1164139457331"> The current will not flow</para>
+      <para id="id1164142108488">(c) Yes</para>
+      <para id="id2257458"> The same</para>
+      <para id="id1164131191836"> The other bulb will keep on burning</para>
+      <para id="id1164140104179">(d) parallel</para>
+      <para id="id1164139399029">(e) warm</para>
+      <para id="id1164138700064">Warmth</para>
+    </section>
+  </content>
+</document>
