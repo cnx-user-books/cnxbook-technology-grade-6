@@ -1,3 +1,50 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11005</md:content-id>  <md:title>Technology Grade 6</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>85f116f8-1395-4cb1-8cfb-478deda4a36c</md:uuid>
-<md:slug>technology-grade-6</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m22613"/>                            <col:module document="m22614"/>                            <col:module document="m22616"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m22617"/>                            <col:module document="m22618"/>                            <col:module document="m29587"/>                            <col:module document="m22623"/>                            <col:module document="m22624"/>                            <col:module document="m22626"/>                            <col:module document="m22628"/>                            <col:module document="m22632"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m22636"/>                            <col:module document="m22637"/>                            <col:module document="m22648"/>                            <col:module document="m22645"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m29590"/>                            <col:module document="m22660"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11005</md:content-id>
+    <md:title>Technology Grade 6</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>85f116f8-1395-4cb1-8cfb-478deda4a36c</md:uuid>
+    <md:slug>technology-grade-6</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m22613"/>
+        <col:module document="m22614"/>
+        <col:module document="m22616"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m22617"/>
+        <col:module document="m22618"/>
+        <col:module document="m29587"/>
+        <col:module document="m22623"/>
+        <col:module document="m22624"/>
+        <col:module document="m22626"/>
+        <col:module document="m22628"/>
+        <col:module document="m22632"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m22636"/>
+        <col:module document="m22637"/>
+        <col:module document="m22648"/>
+        <col:module document="m22645"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m29590"/>
+        <col:module document="m22660"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
